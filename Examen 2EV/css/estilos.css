@@ -1,0 +1,14 @@
+
+table{
+  margin: auto;
+  border: solid 1px;
+}
+td{
+  text-align: center;
+border: solid 1px;
+}
+
+ul{
+  list-style-type: none;
+    text-decoration: none;
+}
